@@ -34,6 +34,8 @@ jupyter notebook Covid\ Data\ Analysis_.ipynb
 4. Run all cells step-by-step to see the analysis.
 
 📸 Screenshots
+
+
 ![image](https://github.com/user-attachments/assets/619abc92-bb94-49ca-a965-b631d430f942)
 ![image](https://github.com/user-attachments/assets/267dfe72-d5c2-46ac-8aa1-1cff3aba2ac3)
 
